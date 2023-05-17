@@ -1,4 +1,4 @@
-# osticket-prereqsp align="center">
+# osticket-prereqsp
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
